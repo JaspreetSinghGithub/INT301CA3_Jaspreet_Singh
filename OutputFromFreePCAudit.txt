@@ -1,0 +1,504 @@
+SYSTEM
+======
+
+Host name: LAPTOP-2FJ5JE79
+IP-address: 192.168.217.1
+User name: LAPTOP-2FJ5JE79\jaspr
+Description: 
+Operating system: Microsoft Windows 11 Home Single Language (version 10.0.22621; build 22621)
+  Name: Microsoft Windows 11 Home Single Language
+  Version: 10.0.22621
+  Build: 22621
+  Install date: 12-12-2022 18:39:05
+Windows product ID: 00356-24536-74864-AAOEM
+Windows product key: WBVNX-RGBMH-3J4VM-HJQTH-PWGP3
+Updates status: Update required: True (checked:Thursday, March 9, 2023, 10:12 AM)
+  Status: Update required: True
+  Last Checked: Thursday, March 9, 2023, 10:12 AM
+Internet Explorer version: 11.1.22621.0
+Model: 82KU
+System type: x64-based PC
+Uptime: Uptime : 0 days, 01:22:14 (since 09-03-2023 18:11:18)
+BIOS: LENOVO (version: GLCN46WW; date: 29-04-2022)
+  Manufacturer: LENOVO
+  Version: GLCN46WW
+  Date: 29-04-2022
+Serial number: PG02VKAM
+Motherboard: LENOVO (LNVNB161216; version: SDK0T76486WIN)
+  Manufacturer: LENOVO
+  Product: LNVNB161216
+  Version: SDK0T76486WIN
+Chassis: Notebook
+Processor: AMD Ryzen 5 5500U with Radeon Graphics (architecture: x64; 2100 MHz)
+  Name: AMD Ryzen 5 5500U with Radeon Graphics
+  Manufacturer: AuthenticAMD
+  Max clock speed: 2100 MHz
+  Architecture: x64
+  Level 2 cache size: 3072 KB
+  Socket type: FP6
+  Version: Model 8, Stepping 1
+Physical memory: 5.9 GB
+Memory slot: 4.0 GB (P0 CHANNEL A; form factor: SODIMM; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: DIMM 0
+  Bank label: P0 CHANNEL A
+  Form factor: SODIMM
+  Memory type: Unknown
+  Manufacturer: Hynix
+  Speed: 3200 ns
+  Max capacity: 16.0 GB
+Memory slot: 4.0 GB (P0 CHANNEL B; form factor: Unknown; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: DIMM 0
+  Bank label: P0 CHANNEL B
+  Form factor: Unknown
+  Memory type: Unknown
+  Manufacturer: Samsung
+  Speed: 3200 ns
+  Max capacity: 16.0 GB
+Web Camera: Integrated Camera
+  Name: Integrated Camera
+  Manufacturer: Realtek
+  Description: Integrated Camera
+  Device ID: USB\VID_04F2&PID_B725&MI_00\7&2F2184DE&1&0000
+Bitlocker: C: Protection Off
+Bitlocker: D: Protection Off
+Disk: Micron MTFDHBA512QFD (476.9 GB)
+  Caption: Micron MTFDHBA512QFD
+  Serial number: 00A0_7501_3262_C2CC.
+  Size: 476.9 GB
+  Manufacturer: (Standard disk drives)
+  Interface type: SCSI
+  Media type: Fixed hard disk media
+  Bytes per sector: 512
+  Heads: 255
+  Cylinders: 62260
+  Sectors: 1000206900
+  Tracks: 15876300
+Logical drive: C: (Local Fixed Disk; size: 280.4 GB; free space: 194.6 GB; file system: NTFS)
+  Name: C:
+  Description: Local Fixed Disk
+  Size: 280.4 GB
+  Free space: 194.6 GB
+  File system: NTFS
+  Serial number: 54EE4626
+  Network path: 
+Logical drive: D: (Local Fixed Disk; size: 195.3 GB; free space: 174.4 GB; file system: NTFS)
+  Name: D:
+  Description: Local Fixed Disk
+  Size: 195.3 GB
+  Free space: 174.4 GB
+  File system: NTFS
+  Serial number: 467FC744
+  Network path: 
+Video: AMD Radeon(TM) Graphics (1920x1080x32b)
+  Name: AMD Radeon(TM) Graphics
+  Current horizontal resolution: 1920
+  Current vertical resolution: 1080
+  Current bits per pixel: 32
+  Current refresh rate: 60 Hz
+  Memory size: -2147483648.0 Bytes
+Monitor: Unknown
+  Manufacturer: Lenovo
+  Serial number: 0
+  Manufacture date: 2019 week 12
+Printer: OneNote (Desktop)
+  Name: OneNote (Desktop)
+  Default printer: False
+  Network printer: False
+  Port name: nul:
+Printer: Microsoft XPS Document Writer
+  Name: Microsoft XPS Document Writer
+  Default printer: False
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Microsoft Print to PDF (default printer)
+  Name: Microsoft Print to PDF
+  Default printer: True
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Fax
+  Name: Fax
+  Default printer: False
+  Network printer: False
+  Port name: SHRFAX:
+Multimedia: AMD High Definition Audio Device
+  Name: AMD High Definition Audio Device
+  Manufacturer: Advanced Micro Devices
+Multimedia: Realtek High Definition Audio
+  Name: Realtek High Definition Audio
+  Manufacturer: Realtek
+Network adapter: Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: Realtek Semiconductor Corp.
+  Speed: 780.0 Mbps
+  Adapter IP-address: 192.168.1.5
+  Adapter MAC-address: 00:45:E2:93:3D:D3
+  DHCP enabled: True
+  DHCP server: 192.168.1.1
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: VMware Virtual Ethernet Adapter for VMnet1
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: VMware, Inc.
+  Speed: 100.0 Mbps
+  Adapter IP-address: 192.168.111.1
+  Adapter MAC-address: 00:50:56:C0:00:01
+  DHCP enabled: True
+  DHCP server: 192.168.111.254
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: VMware Virtual Ethernet Adapter for VMnet8
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: VMware, Inc.
+  Speed: 100.0 Mbps
+  Adapter IP-address: 192.168.217.1
+  Adapter MAC-address: 00:50:56:C0:00:08
+  DHCP enabled: True
+  DHCP server: 192.168.217.254
+  DNS domain: 
+  WINS primary server: 192.168.217.2
+  WINS secondary server: 
+Local account: LAPTOP-2FJ5JE79\Administrator
+  Caption: LAPTOP-2FJ5JE79\Administrator
+  Name: Administrator
+  Domain: LAPTOP-2FJ5JE79
+  Description: Built-in account for administering the computer/domain
+  SID: S-1-5-21-1868778611-3432671681-3908161806-500
+  Disabled: True
+Local account: LAPTOP-2FJ5JE79\DefaultAccount
+  Caption: LAPTOP-2FJ5JE79\DefaultAccount
+  Name: DefaultAccount
+  Domain: LAPTOP-2FJ5JE79
+  Description: A user account managed by the system.
+  SID: S-1-5-21-1868778611-3432671681-3908161806-503
+  Disabled: True
+Local account: LAPTOP-2FJ5JE79\Guest
+  Caption: LAPTOP-2FJ5JE79\Guest
+  Name: Guest
+  Domain: LAPTOP-2FJ5JE79
+  Description: Built-in account for guest access to the computer/domain
+  SID: S-1-5-21-1868778611-3432671681-3908161806-501
+  Disabled: True
+Local account: LAPTOP-2FJ5JE79\jaspr
+  Caption: LAPTOP-2FJ5JE79\jaspr
+  Name: jaspr
+  Domain: LAPTOP-2FJ5JE79
+  Description: 
+  SID: S-1-5-21-1868778611-3432671681-3908161806-1001
+  Disabled: False
+Local account: LAPTOP-2FJ5JE79\WDAGUtilityAccount
+  Caption: LAPTOP-2FJ5JE79\WDAGUtilityAccount
+  Name: WDAGUtilityAccount
+  Domain: LAPTOP-2FJ5JE79
+  Description: A user account managed and used by the system for Windows Defender Application Guard scenarios.
+  SID: S-1-5-21-1868778611-3432671681-3908161806-504
+  Disabled: True
+Share: ADMIN$ (Remote Admin)
+  Name: ADMIN$
+  Caption: Remote Admin
+  Path: C:\WINDOWS
+  Type: Disk Drive Admin
+Share: C$ (Default share)
+  Name: C$
+  Caption: Default share
+  Path: C:\
+  Type: Disk Drive Admin
+Share: D$ (Default share)
+  Name: D$
+  Caption: Default share
+  Path: D:\
+  Type: Disk Drive Admin
+Share: IPC$ (Remote IPC)
+  Name: IPC$
+  Caption: Remote IPC
+  Path: 
+  Type: IPC Admin
+System hotfix: KB5012170 - Security Update
+System hotfix: KB5022497 - Update
+System hotfix: KB5022913 - Update
+System hotfix: KB5022948 - Update
+Startup: LAPTOP-2FJ5JE79\jaspr: OneDrive ("C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background)
+  Name: OneDrive
+  Command: "C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
+  Location: HKU\S-1-5-21-1868778611-3432671681-3908161806-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-2FJ5JE79\jaspr
+Startup: LAPTOP-2FJ5JE79\jaspr: MicrosoftEdgeAutoLaunch_7D6BE21B8D4ECC879716C3036D55ACF8 ("C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5)
+  Name: MicrosoftEdgeAutoLaunch_7D6BE21B8D4ECC879716C3036D55ACF8
+  Command: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+  Location: HKU\S-1-5-21-1868778611-3432671681-3908161806-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-2FJ5JE79\jaspr
+Startup: LAPTOP-2FJ5JE79\jaspr: LenovoVantageToolbar (C:\ProgramData\Lenovo\Vantage\Addins\LenovoBatteryGaugeAddin\1.0.0.66\x64\QSHelper.exe)
+  Name: LenovoVantageToolbar
+  Command: C:\ProgramData\Lenovo\Vantage\Addins\LenovoBatteryGaugeAddin\1.0.0.66\x64\QSHelper.exe
+  Location: HKU\S-1-5-21-1868778611-3432671681-3908161806-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-2FJ5JE79\jaspr
+Startup: Public: SecurityHealth (%windir%\system32\SecurityHealthSystray.exe)
+  Name: SecurityHealth
+  Command: %windir%\system32\SecurityHealthSystray.exe
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+Startup: Public: LVAW ("C:\Program Files\Lenovo\LVA Pro Service\StartupHelper.exe" /startup_delay)
+  Name: LVAW
+  Command: "C:\Program Files\Lenovo\LVA Pro Service\StartupHelper.exe" /startup_delay
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+Startup: Public: RtkAudUService ("C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5d66730f577c60c7\RtkAudUService64.exe" -background)
+  Name: RtkAudUService
+  Command: "C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5d66730f577c60c7\RtkAudUService64.exe" -background
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+
+
+SOFTWARE
+========
+
+Android Studio, Version: 2021.3, Publisher: Google LLC
+Appium Inspector 2022.9.1, Version: 2022.9.1, Publisher: Appium Developers, Size: 554.8 MB
+Appium Server GUI 1.22.3-4, Version: 1.22.3-4, Publisher: Appium Developers, Size: 736.1 MB
+Git, Version: 2.39.1, Publisher: The Git Development Community, Install date: 2023-01-28, Size: 293.4 MB
+Google Chrome, Version: 110.0.5481.180, Publisher: Google LLC, Install date: 2023-03-09
+IBM SPSS Statistics 22, Version: 22.0.0.0, Publisher: IBM Corp, Install date: 2023-02-05, Size: 794.9 MB
+Java(TM) SE Development Kit 19 (64-bit), Version: 19.0.0.0, Publisher: Oracle Corporation, Install date: 2022-10-16, Size: 304.8 MB
+Lenovo Vantage Service, Version: 3.13.43.0, Publisher: Lenovo Group Ltd., Install date: 2022-12-10, Size: 41.6 MB
+Lenovo Voice Service, Version: 2.3.8.0, Publisher: Lenovo Group Ltd., Install date: 2021-12-21, Size: 26.4 MB
+McAfee LiveSafe, Version: 16.0 R43, Publisher: McAfee, LLC, Size: 697.1 MB
+Microsoft Edge WebView2 Runtime, Version: 110.0.1587.63, Publisher: Microsoft Corporation, Install date: 2023-03-06
+Microsoft Edge, Version: 110.0.1587.63, Publisher: Microsoft Corporation, Install date: 2023-03-04
+Microsoft Office Home and Student 2021 - en-us, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft Office Home and Student 2021 - pa-in, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft OneDrive, Version: 23.007.0109.0004, Publisher: Microsoft Corporation, Size: 269.4 MB
+Microsoft OneNote - en-us, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft OneNote - pa-in, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft Update Health Tools, Version: 5.69.0.0, Publisher: Microsoft Corporation, Install date: 2023-01-27, Size: 1.0 MB
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17, Version: 9.0.30729, Publisher: Microsoft Corporation, Install date: 2023-02-05, Size: 10.3 MB
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31326, Version: 14.32.31326.0, Publisher: Microsoft Corporation, Size: 20.2 MB
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31326, Version: 14.32.31326.0, Publisher: Microsoft Corporation, Size: 17.6 MB
+VMware Workstation, Version: 16.2.4, Publisher: VMware, Inc., Install date: 2023-01-09, Size: 1.1 GB
+WebAdvisor by McAfee, Version: 4.1.1.805, Publisher: McAfee, LLC, Size: 63.1 MB
+WinRAR 6.21 (64-bit), Version: 6.21.0, Publisher: win.rar GmbH
+
+
+PROCESSES
+=========
+
+AggregatorHost.exe (C:\WINDOWS\System32\AggregatorHost.exe)
+amdfendrsr.exe (C:\WINDOWS\System32\amdfendrsr.exe)
+ApplicationFrameHost.exe (C:\WINDOWS\system32\ApplicationFrameHost.exe)
+atieclxx.exe (C:\WINDOWS\System32\DriverStore\FileRepository\u0381556.inf_amd64_7dd5c787427781eb\B381591\atieclxx.exe)
+atiesrxx.exe (C:\WINDOWS\System32\DriverStore\FileRepository\u0381556.inf_amd64_7dd5c787427781eb\B381591\atiesrxx.exe)
+audiodg.exe (C:\WINDOWS\system32\AUDIODG.EXE)
+AutoModeDetect.exe (C:\WINDOWS\system32\AutoModeDetect.exe)
+backgroundTaskHost.exe (C:\Windows\system32\backgroundTaskHost.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files\Google\Chrome\Application\chrome.exe)
+CHXSmartScreen.exe (C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+ctfmon.exe (C:\WINDOWS\system32\ctfmon.exe)
+DAX3API.exe (C:\WINDOWS\System32\DriverStore\FileRepository\DAX3_S~4.INF\DAX3API.exe)
+DAX3API.exe (C:\WINDOWS\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_3886d4759c27592b\DAX3API.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dwm.exe (C:\WINDOWS\system32\dwm.exe)
+ElevocControlService.exe (C:\WINDOWS\System32\ElevocControlService.exe)
+explorer.exe (C:\WINDOWS\Explorer.EXE)
+FnHotkeyUtility.exe (C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_cd446641b2a10fd9\FnHotkeyUtility.exe)
+fontdrvhost.exe (C:\WINDOWS\system32\fontdrvhost.exe)
+fontdrvhost.exe (C:\WINDOWS\system32\fontdrvhost.exe)
+freepcaudit.exe (D:\INT301CA3\freepcaudit.exe)
+GlobalPresenter.exe (C:\Program Files\WindowsApps\E046963F.LenovoVoiceWorldWide_2.3.8.0_x64__k1h2ywk1493x8\GlobalPresenter\GlobalPresenter.exe)
+Lenovo.Modern.ImController.exe (C:\WINDOWS\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe)
+Lenovo.Modern.ImController.PluginHost.Device.exe (C:\WINDOWS\Lenovo\iMController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe)
+LenovoUtilityService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_cd446641b2a10fd9\LenovoUtilityService.exe)
+LenovoVantage-(DeviceSettingsSystemAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(DeviceSettingsSystemAddin).exe)
+LenovoVantage-(LenovoBoostAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(LenovoBoostAddin).exe)
+LenovoVantage-(LenovoBoostSystemAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(LenovoBoostSystemAddin).exe)
+LenovoVantage-(LenovoServiceBridgeAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(LenovoServiceBridgeAddin).exe)
+LenovoVantage-(MultimediaAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(MultimediaAddin).exe)
+LenovoVantage-(SmartDisplayAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(SmartDisplayAddin).exe)
+LenovoVantage-(VantageCoreAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(VantageCoreAddin).exe)
+LenovoVantageService.exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantageService.exe)
+LNBITSSvc.exe (C:\WINDOWS\System32\LNBITSSvc.exe)
+Locator.exe (C:\WINDOWS\system32\locator.exe)
+LockApp.exe (C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe)
+lsass.exe (C:\WINDOWS\system32\lsass.exe)
+mcapexe.exe (C:\Program Files\Common Files\McAfee\VSCore_21_9\McApExe.exe)
+McCSPServiceHost.exe (C:\Program Files\Common Files\McAfee\CSP\5.0.112.0\McCSPServiceHost.exe)
+mcshield.exe (C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe)
+McUICnt.exe (C:\Program Files\Common Files\McAfee\Platform\McUICnt.exe)
+MfeAVSvc.exe (C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe)
+MMSSHOST.exe (C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE)
+ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
+ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
+ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.63\msedgewebview2.exe)
+OfficeClickToRun.exe (C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe)
+PEFService.exe (C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe)
+QSHelper.exe (C:\ProgramData\Lenovo\Vantage\Addins\LenovoBatteryGaugeAddin\1.0.0.66\x64\QSHelper.exe)
+RtkAudUService64.exe (C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5d66730f577c60c7\RtkAudUService64.exe)
+RtkAudUService64.exe (C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_5d66730f577c60c7\RtkAudUService64.exe)
+RtkBtManServ.exe (C:\WINDOWS\RtkBtManServ.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+SDXHelper.exe (C:\Program Files\Microsoft Office\Root\Office16\SDXHelper.exe)
+SearchHost.exe (C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe)
+SearchIndexer.exe (C:\WINDOWS\system32\SearchIndexer.exe)
+SecurityHealthSystray.exe (C:\Windows\System32\SecurityHealthSystray.exe)
+servicehost.exe (C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe)
+ShellExperienceHost.exe (C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe)
+sihost.exe (C:\WINDOWS\system32\sihost.exe)
+smartscreen.exe (C:\Windows\System32\smartscreen.exe)
+spoolsv.exe (C:\WINDOWS\System32\spoolsv.exe)
+StartMenuExperienceHost.exe (C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+SystemSettings.exe (C:\Windows\ImmersiveControlPanel\SystemSettings.exe)
+SystemSettingsBroker.exe (C:\Windows\System32\SystemSettingsBroker.exe)
+taskhostw.exe (C:\WINDOWS\system32\taskhostw.exe)
+TiWorker.exe (C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.1344_none_e953938a42d5ff76\TiWorker.exe)
+TrustedInstaller.exe (C:\WINDOWS\servicing\TrustedInstaller.exe)
+UDClientService.exe (C:\WINDOWS\system32\DRIVERS\Lenovo\udc\Service\UDClientService.exe)
+uihost.exe (C:\Program Files\McAfee\WebAdvisor\UIHost.exe)
+unsecapp.exe (C:\WINDOWS\system32\wbem\unsecapp.exe)
+unsecapp.exe (C:\WINDOWS\system32\wbem\unsecapp.exe)
+UserOOBEBroker.exe (C:\Windows\System32\oobe\UserOOBEBroker.exe)
+vmnat.exe (C:\WINDOWS\SysWOW64\vmnat.exe)
+vmnetdhcp.exe (C:\WINDOWS\SysWOW64\vmnetdhcp.exe)
+vmware-authd.exe (D:\VMware\vmware-authd.exe)
+vmware-tray.exe (D:\VMware\vmware-tray.exe)
+vmware-usbarbitrator64.exe (C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe)
+VoiceAssistantService.exe (C:\Program Files\Lenovo\LVA Pro Service\VoiceAssistantService.exe)
+WhatsApp.exe (C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2304.6.0_x64__cv1g1gvanyjgm\WhatsApp.exe)
+Widgets.exe (C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_421.20070.195.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe)
+winlogon.exe (C:\WINDOWS\system32\winlogon.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
