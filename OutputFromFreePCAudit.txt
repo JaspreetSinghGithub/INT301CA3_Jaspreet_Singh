@@ -12,13 +12,13 @@ Operating system: Microsoft Windows 11 Home Single Language (version 10.0.22621;
   Install date: 12-12-2022 18:39:05
 Windows product ID: 00356-24536-74864-AAOEM
 Windows product key: WBVNX-RGBMH-3J4VM-HJQTH-PWGP3
-Updates status: Update required: True (checked:Wednesday, March 15, 2023, 08:10 AM)
+Updates status: Update required: True (checked:Monday, March 20, 2023, 08:14 AM)
   Status: Update required: True
-  Last Checked: Wednesday, March 15, 2023, 08:10 AM
+  Last Checked: Monday, March 20, 2023, 08:14 AM
 Internet Explorer version: 11.1.22621.0
 Model: 82KU
 System type: x64-based PC
-Uptime: Uptime : 5 days, 14:12:07 (since 09-03-2023 18:11:26)
+Uptime: Uptime : 4 days, 17:29:16 (since 15-03-2023 16:07:09)
 BIOS: LENOVO (version: GLCN46WW; date: 29-04-2022)
   Manufacturer: LENOVO
   Version: GLCN46WW
@@ -75,11 +75,11 @@ Disk: Micron MTFDHBA512QFD (476.9 GB)
   Cylinders: 62260
   Sectors: 1000206900
   Tracks: 15876300
-Logical drive: C: (Local Fixed Disk; size: 280.4 GB; free space: 193.8 GB; file system: NTFS)
+Logical drive: C: (Local Fixed Disk; size: 280.4 GB; free space: 196.4 GB; file system: NTFS)
   Name: C:
   Description: Local Fixed Disk
   Size: 280.4 GB
-  Free space: 193.8 GB
+  Free space: 196.4 GB
   File system: NTFS
   Serial number: 54EE4626
   Network path: 
@@ -132,7 +132,7 @@ Network adapter: Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
   Adapter type: Ethernet 802.3
   Net connection status: Connected
   Manufacturer: Realtek Semiconductor Corp.
-  Speed: 780.0 Mbps
+  Speed: 270.0 Mbps
   Adapter IP-address: 192.168.1.6
   Adapter MAC-address: 00:45:E2:93:3D:D3
   DHCP enabled: True
@@ -221,8 +221,8 @@ Share: IPC$ (Remote IPC)
   Type: IPC Admin
 System hotfix: KB5012170 - Security Update
 System hotfix: KB5022497 - Update
-System hotfix: KB5022913 - Update
 System hotfix: KB5022948 - Update
+System hotfix: KB5023706 - Security Update
 Startup: LAPTOP-2FJ5JE79\jaspr: OneDrive ("C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background)
   Name: OneDrive
   Command: "C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
@@ -268,13 +268,13 @@ Java(TM) SE Development Kit 19 (64-bit), Version: 19.0.0.0, Publisher: Oracle Co
 Lenovo Vantage Service, Version: 3.13.43.0, Publisher: Lenovo Group Ltd., Install date: 2022-12-10, Size: 41.6 MB
 Lenovo Voice Service, Version: 2.3.8.0, Publisher: Lenovo Group Ltd., Install date: 2021-12-21, Size: 26.4 MB
 McAfee LiveSafe, Version: 16.0 R43, Publisher: McAfee, LLC, Size: 697.1 MB
-Microsoft Edge WebView2 Runtime, Version: 110.0.1587.69, Publisher: Microsoft Corporation, Install date: 2023-03-13
-Microsoft Edge, Version: 110.0.1587.69, Publisher: Microsoft Corporation, Install date: 2023-03-13
-Microsoft Office Home and Student 2021 - en-us, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
-Microsoft Office Home and Student 2021 - pa-in, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
-Microsoft OneDrive, Version: 23.038.0219.0001, Publisher: Microsoft Corporation, Size: 270.7 MB
-Microsoft OneNote - en-us, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
-Microsoft OneNote - pa-in, Version: 16.0.16130.20218, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft Edge WebView2 Runtime, Version: 111.0.1661.44, Publisher: Microsoft Corporation, Install date: 2023-03-20
+Microsoft Edge, Version: 111.0.1661.44, Publisher: Microsoft Corporation, Install date: 2023-03-19
+Microsoft Office Home and Student 2021 - en-us, Version: 16.0.16130.20306, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft Office Home and Student 2021 - pa-in, Version: 16.0.16130.20306, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft OneDrive, Version: 23.043.0226.0001, Publisher: Microsoft Corporation, Size: 270.6 MB
+Microsoft OneNote - en-us, Version: 16.0.16130.20306, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft OneNote - pa-in, Version: 16.0.16130.20306, Product key: 7CFGB (Last 5 characters of product key), Publisher: Microsoft Corporation
 Microsoft Update Health Tools, Version: 5.69.0.0, Publisher: Microsoft Corporation, Install date: 2023-01-27, Size: 1.0 MB
 Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17, Version: 9.0.30729, Publisher: Microsoft Corporation, Install date: 2023-02-05, Size: 10.3 MB
 Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31326, Version: 14.32.31326.0, Publisher: Microsoft Corporation, Size: 20.2 MB
@@ -314,17 +314,17 @@ ctfmon.exe (C:\WINDOWS\system32\ctfmon.exe)
 DAX3API.exe (C:\WINDOWS\System32\DriverStore\FileRepository\DAX3_S~4.INF\DAX3API.exe)
 DAX3API.exe (C:\WINDOWS\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_3886d4759c27592b\DAX3API.exe)
 dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
 dwm.exe (C:\WINDOWS\System32\dwm.exe)
 ElevocControlService.exe (C:\WINDOWS\System32\ElevocControlService.exe)
 explorer.exe (C:\WINDOWS\Explorer.EXE)
 FnHotkeyUtility.exe (C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_cd446641b2a10fd9\FnHotkeyUtility.exe)
-fontdrvhost.exe (C:\WINDOWS\System32\fontdrvhost.exe)
 fontdrvhost.exe (C:\WINDOWS\system32\fontdrvhost.exe)
+fontdrvhost.exe (C:\WINDOWS\System32\fontdrvhost.exe)
 freepcaudit.exe (D:\INT301CA3\freepcaudit.exe)
 git-bash.exe (C:\Program Files\Git\git-bash.exe)
 GlobalPresenter.exe (C:\Program Files\WindowsApps\E046963F.LenovoVoiceWorldWide_2.3.8.0_x64__k1h2ywk1493x8\GlobalPresenter\GlobalPresenter.exe)
 Lenovo.Modern.ImController.exe (C:\WINDOWS\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe)
-Lenovo.Modern.ImController.PluginHost.Device.exe (C:\WINDOWS\Lenovo\iMController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe)
 Lenovo.Modern.ImController.PluginHost.Device.exe (C:\WINDOWS\Lenovo\iMController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe)
 LenovoUtilityService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_cd446641b2a10fd9\LenovoUtilityService.exe)
 LenovoVantage-(DeviceSettingsSystemAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(DeviceSettingsSystemAddin).exe)
@@ -333,6 +333,7 @@ LenovoVantage-(LenovoBoostSystemAddin).exe (C:\Program Files (x86)\Lenovo\Vantag
 LenovoVantage-(LenovoServiceBridgeAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(LenovoServiceBridgeAddin).exe)
 LenovoVantage-(MultimediaAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(MultimediaAddin).exe)
 LenovoVantage-(SmartDisplayAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(SmartDisplayAddin).exe)
+LenovoVantage-(SmartPerformanceAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(SmartPerformanceAddin).exe)
 LenovoVantage-(VantageCoreAddin).exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantage-(VantageCoreAddin).exe)
 LenovoVantageService.exe (C:\Program Files (x86)\Lenovo\VantageService\3.13.43.0\LenovoVantageService.exe)
 LNBITSSvc.exe (C:\WINDOWS\System32\LNBITSSvc.exe)
@@ -343,20 +344,29 @@ mcapexe.exe (C:\Program Files\Common Files\McAfee\VSCore_21_9\McApExe.exe)
 McCSPServiceHost.exe (C:\Program Files\Common Files\McAfee\CSP\5.0.112.0\McCSPServiceHost.exe)
 mcshield.exe (C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe)
 McUICnt.exe (C:\Program Files\Common Files\McAfee\Platform\mcuicnt.exe)
+McVulCtr.exe (C:\Program Files\McAfee\VUL\McVulCtr.exe)
 MfeAVSvc.exe (C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe)
-MicrosoftEdgeUpdate.exe (C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe)
+Microsoft.Photos.exe (C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21120.8011.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe)
 mintty.exe (C:\Program Files\Git\usr\bin\mintty.exe)
 MMSSHOST.exe (C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE)
 ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
 ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
 ModuleCoreService.exe (C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
-msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\110.0.1587.69\msedgewebview2.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.44\msedgewebview2.exe)
 msiexec.exe (C:\WINDOWS\system32\msiexec.exe)
+Notepad.exe (C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2112.32.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe)
 OfficeClickToRun.exe (C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe)
 PEFService.exe (C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe)
 powershell_ise.exe (C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe)
@@ -370,10 +380,11 @@ RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
 RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
 RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
 RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+SDXHelper.exe (C:\Program Files\Microsoft Office\Root\Office16\SDXHelper.exe)
 SearchFilterHost.exe (C:\WINDOWS\System32\SearchFilterHost.exe)
 SearchHost.exe (C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe)
 SearchIndexer.exe (C:\WINDOWS\system32\SearchIndexer.exe)
-SearchProtocolHost.exe (C:\WINDOWS\System32\SearchProtocolHost.exe)
 SearchProtocolHost.exe (C:\WINDOWS\System32\SearchProtocolHost.exe)
 SecurityHealthSystray.exe (C:\Windows\System32\SecurityHealthSystray.exe)
 servicehost.exe (C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe)
@@ -383,59 +394,8 @@ smartscreen.exe (C:\Windows\System32\smartscreen.exe)
 spoolsv.exe (C:\WINDOWS\System32\spoolsv.exe)
 StartMenuExperienceHost.exe (C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe)
 svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\system32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
-svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
@@ -449,6 +409,35 @@ svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
@@ -460,11 +449,33 @@ svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
 svchost.exe (C:\WINDOWS\System32\svchost.exe)
 svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
 SystemSettings.exe (C:\Windows\ImmersiveControlPanel\SystemSettings.exe)
-SystemSettingsBroker.exe (C:\Windows\System32\SystemSettingsBroker.exe)
 taskhostw.exe (C:\WINDOWS\system32\taskhostw.exe)
+TextInputHost.exe (C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe)
 TiWorker.exe (C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.1344_none_e953938a42d5ff76\TiWorker.exe)
 TrustedInstaller.exe (C:\WINDOWS\servicing\TrustedInstaller.exe)
 UDClientService.exe (C:\WINDOWS\system32\DRIVERS\Lenovo\udc\Service\UDClientService.exe)
